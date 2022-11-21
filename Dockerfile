@@ -1,4 +1,5 @@
-FROM jenkins/jnlp-slave:latest
+#FROM jenkins/jnlp-slave:latest
+FROM centos:7
 MAINTAINER ccdf12
 
 #USER root
